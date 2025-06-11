@@ -3,32 +3,23 @@ import React from 'react';
 const About = () => {
   const skills = [
     { name: 'JavaScript', icon: '🟨' },
-    { name: 'React', icon: '⚛️' },
-    { name: 'Node.js', icon: '🟢' },
+    { name: 'React', icon: '⚛️' },,
     { name: 'Python', icon: '🐍' },
     { name: 'HTML/CSS', icon: '🎨' },
-    { name: 'Git', icon: '📋' },
-    { name: 'SQL', icon: '🗄️' },
-    { name: 'Docker', icon: '🐳' }
   ];
 
   return (
     <section className="about">
-      <h2 className="section-title">Sobre Mim</h2>
+      <h2 className="section-title">Me conhecendo...</h2>
       <div className="about-content">
-        <div className="about-text">
+        <article className="about-text">
           <p>
-            Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. 
-            Com experiência em desenvolvimento web full-stack, tenho trabalhado 
-            em projetos diversos que me permitiram crescer profissionalmente 
-            e desenvolver soluções criativas para problemas complexos.
+            Oie! Sou uma futura desenvolvedora front-end e a melhor aluna do Gabriel hahah! Pretendo seguir nessa carreira
+            e desvendar mais do mundo tecnológico.
           </p>
           <p>
-            Minha jornada na programação começou há alguns anos, e desde então 
-            tenho me dedicado a aprender constantemente novas tecnologias e 
-            melhores práticas de desenvolvimento. Acredito que a programação 
-            é uma forma de arte que combina lógica, criatividade e resolução 
-            de problemas.
+            Minha jornada na programação começou em 2024. Iniciei meu curso técnico na instituição Manoel Ignácio, obtive
+            muitas notas boas e hoje estou em busca da minha formação como programadora!
           </p>
           <p>
             Estou sempre em busca de novos desafios e oportunidades para 
@@ -36,8 +27,8 @@ const About = () => {
             Gosto de trabalhar em equipe e compartilhar conhecimento com 
             outros desenvolvedores.
           </p>
-        </div>
-        
+        </article>
+  
         <div className="skills">
           <h3>🚀 Tecnologias & Ferramentas</h3>
           <div className="skills-grid">

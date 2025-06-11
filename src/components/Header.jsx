@@ -5,13 +5,13 @@ const Header = () => {
     <header className="header">
       <div className="profile-section">
         <div className="profile-photo">
-          👨‍💻
+          <img src="assets/components/dudaprofile.jpg" alt="" />
         </div>
-        <h1 className="name">Seu Nome</h1>
+        <h1 className="name">Eduarda Real</h1>
         <div className="age-email">
-          <p>25 anos • seuemail@gmail.com</p>
+          <p>17 anos • dudarealferreira07@gmail.com@gmail.com</p>
         </div>
-        <p className="title">Desenvolvedor Full Stack</p>
+        <p className="title">Desenvolvedora front-end em formação☺️</p>
       </div>
     </header>
   );

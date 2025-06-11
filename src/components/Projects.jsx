@@ -4,30 +4,30 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'E-commerce Platform',
-      description: 'Plataforma completa de e-commerce com carrinho de compras, sistema de pagamento e painel administrativo. Desenvolvida com React, Node.js e MongoDB.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'Stripe'],
-      icon: '🛒',
-      liveLink: '#',
-      githubLink: '#'
+      title: 'Valentines Day!',
+      description: 'Plataforma simples com apenas o front-end e um gif de gato suuper fofo!. Desenvolvida apenas com HTML.',
+      technologies: ['HTML'],
+      icon: '💞', 
+      liveLink: 'https://github.com/dudareal/dia-dos-namorados.git',
+      githubLink: 'https://github.com/dudareal/dia-dos-namorados.git'
     },
     {
       id: 2,
-      title: 'Task Manager App',
-      description: 'Aplicação de gerenciamento de tarefas com funcionalidades de drag & drop, categorização e sistema de notificações. Interface intuitiva e responsiva.',
-      technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Firebase'],
-      icon: '📋',
-      liveLink: '#',
-      githubLink: '#'
+      title: 'TechNoBug',
+      description: 'Site destinado a pessoas interessadas em aprender e aprimorar conhecimentos sobre programação. Interface completa e moderna.',
+      technologies: ['React', 'JavaScript', 'HTML', 'CSS', 'Firebase'],
+      icon: '🎓',
+      liveLink: 'https://github.com/Samuel029/Projeto_Multidisciplinar.git',
+      githubLink: 'https://github.com/Samuel029/Projeto_Multidisciplinar.git'
     },
     {
       id: 3,
-      title: 'Weather Dashboard',
-      description: 'Dashboard meteorológico com dados em tempo real, previsões, gráficos interativos e geolocalização. Integração com APIs externas.',
-      technologies: ['Vue.js', 'Chart.js', 'Weather API', 'Sass'],
-      icon: '🌤️',
-      liveLink: '#',
-      githubLink: '#'
+      title: 'Coração',
+      description: 'Simples código para brincar com as diversas funcionalidades do python que é tanto julgado..',
+      technologies: ['Python'],
+      icon: '❤️',
+      liveLink: 'https://github.com/dudareal/cora-o.git',
+      githubLink: 'https://github.com/dudareal/cora-o.git'
     }
   ];
 
