@@ -64,10 +64,10 @@ body {
   object-fit: cover;
   transition: transform 0.3s ease;
   background: rgba(255, 255, 255, 0.2);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 48px;
+}
+
+.profile-photo:hover {
+  transform: scale(1.05);
 }
 
 .profile-photo:hover {
@@ -336,6 +336,14 @@ body {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   padding-top: 20px;
   opacity: 0.6;
+}
+
+@media (max-width: 768px) {
+  .profile-photo {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 20px;
+  }
 }
 
 /* Responsive Design */
