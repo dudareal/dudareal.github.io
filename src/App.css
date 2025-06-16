@@ -84,6 +84,10 @@ body {
   background-clip: text;
 }
 
+.bandeira {
+  width: 50px;
+  height: auto;
+}
 .age-email {
   font-size: 1.2rem;
   opacity: 0.9;
@@ -336,14 +340,6 @@ body {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   padding-top: 20px;
   opacity: 0.6;
-}
-
-@media (max-width: 768px) {
-  .profile-photo {
-    width: 120px;
-    height: 120px;
-    margin: 0 auto 20px;
-  }
 }
 
 /* Responsive Design */

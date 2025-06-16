@@ -9,9 +9,9 @@ const Header = () => {
         </div>
         <h1 className="name">Eduarda Real</h1>
         <div className="age-email">
-          <p>17 anos • dudarealferreira07@gmail.com@gmail.com</p>
+          <p>TI | ADM | MKT Digital </p>
         </div>
-        <p className="title">Desenvolvedora front-end em formação☺️</p>
+        <p><img src="https://emojigraph.org/media/facebook/flag-brazil_1f1e7-1f1f7.png" alt="Bandeira do Brasil" class="bandeira"/></p>
       </div>
     </header>
   );
