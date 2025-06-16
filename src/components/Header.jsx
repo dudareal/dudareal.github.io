@@ -5,6 +5,7 @@ const Header = () => {
     <header className="header">
       <div className="profile-section">
         <div className="profile-photo">
+          <img src="/dudaprofile.jpg" alt="Foto de Perfil de Duda Real" class="profile-photo"/>
         </div>
         <h1 className="name">Eduarda Real</h1>
         <div className="age-email">
