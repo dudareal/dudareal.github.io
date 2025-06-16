@@ -30,6 +30,14 @@ body {
   min-height: 100vh;
 }
 
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 10px;
+  object-fit: cover;
+}
 h1 {
   font-size: 3.2em;
   line-height: 1.1;

@@ -7,8 +7,8 @@
 body {
   font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
-  color: #333;
-  background: linear-gradient(135deg, #ffffff 0%, #ffbaef 100%);
+  color: #333333;
+  background: linear-gradient(135deg, #f9eeee 0%, #f0ffc1 100%);
   min-height: 100vh;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .header {
-  background: linear-gradient(135deg, #4f4f4f 0%, #0e0306 100%);
+  background: linear-gradient(135deg, #ffc7c7 0%, #e46889 100%);
   color: white;
   text-align: center;
   padding: 80px 40px;
@@ -50,7 +50,7 @@ body {
 }
 
 .profile-section {
-  position: relative;
+  position: center;
   z-index: 2;
 }
 
