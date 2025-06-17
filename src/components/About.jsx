@@ -28,24 +28,17 @@ const About = () => {
             outros desenvolvedores.
           </p>
         </article>
-
-        <div className="about-highlights">
-          <div className="highlight-item">
-            <div className="highlight-icon">🎯</div>
-            <h3>Foco em Resultados</h3>
-            <p>Desenvolvimento orientado a objetivos com foco na experiência do usuário e performance.</p>
-          </div>
-          
-          <div className="highlight-item">
-            <div className="highlight-icon">🚀</div>
-            <h3>Sempre Aprendendo</h3>
-            <p>Constantemente me atualizando com as últimas tecnologias e tendências do mercado.</p>
-          </div>
-          
-          <div className="highlight-item">
-            <div className="highlight-icon">🤝</div>
-            <h3>Trabalho em Equipe</h3>
-            <p>Colaboração efetiva e comunicação clara são fundamentais para o sucesso de qualquer projeto.</p>
+        
+  
+        <div className="skills">
+          <h3>🚀 Familiaridade </h3>
+          <div className="skills-grid">
+            {skills.map((skill, index) => (
+              <div key={index} className="skill-item">
+                <div className="skill-icon">{skill.icon}</div>
+                <div className="skill-name">{skill.name}</div>
+              </div>
+            ))}
           </div>
         </div>
       </div>

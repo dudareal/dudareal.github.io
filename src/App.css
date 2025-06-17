@@ -318,13 +318,13 @@ body {
 }
 
 .tab-button.active {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ffa9c4 0%, #800438 100%);
   color: white;
   box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
 }
 
 .tab-button:hover:not(.active) {
-  color: #667eea;
+  color: #800438;
   background: rgba(102, 126, 234, 0.1);
 }
 
@@ -343,7 +343,7 @@ body {
   background: #f8f9fa;
   padding: 30px;
   border-radius: 15px;
-  border-left: 5px solid #667eea;
+  border-left: 5px solid #ffa9c4;
 }
 
 .category-title {
@@ -388,7 +388,7 @@ body {
 
 .skill-percentage {
   font-size: 0.9rem;
-  color: #667eea;
+  color: #800438;
   font-weight: 600;
 }
 
@@ -402,7 +402,7 @@ body {
 
 .skill-bar-fill {
   height: 100%;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ffa9c4 0%, #ff7da6 100%);
   border-radius: 4px;
   transition: width 1s ease-out;
   animation: fillBar 1.5s ease-out;
@@ -428,7 +428,7 @@ body {
 .stat-item {
   text-align: center;
   padding: 20px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff7da6 0%, #d96294 100%);
   border-radius: 15px;
   color: white;
   min-width: 120px;
@@ -473,13 +473,13 @@ body {
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ffa9c4 0%, #800438 100%);
 }
 
 .certificate-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
-  border-color: #667eea;
+  border-color: #800438;
 }
 
 .certificate-header {
@@ -500,7 +500,7 @@ body {
 }
 
 .verified-badge {
-  background: #28a745;
+  background: #98fdb0;
   color: white;
   padding: 5px 12px;
   border-radius: 20px;
@@ -516,7 +516,7 @@ body {
 }
 
 .certificate-issuer {
-  color: #667eea;
+  color: #800438;
   font-weight: 600;
   margin-bottom: 5px;
 }
@@ -550,7 +550,7 @@ body {
 }
 
 .certificate-link {
-  color: #667eea;
+  color: #800438;
   text-decoration: none;
   font-weight: 600;
   font-size: 0.9rem;
@@ -558,7 +558,7 @@ body {
 }
 
 .certificate-link:hover {
-  color: #5a67d8;
+  color: #e44da0;
   text-decoration: underline;
 }
 
