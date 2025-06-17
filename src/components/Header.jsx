@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="profile-section">
-        <div className="profile-photo">
+        <div>
           <img src="https://avatars.githubusercontent.com/u/160789678?s=400&u=2379b1385d961abad8b45a7d204ca07bb3c64cf8&v=4" alt="Foto de Perfil de Duda Real" class="profile-photo"/>
         </div>
         <h1 className="name">Eduarda Real</h1>

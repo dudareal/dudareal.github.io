@@ -7,7 +7,7 @@ const Projects = () => {
       title: 'Valentines Day!',
       description: 'Plataforma simples com apenas o front-end e um gif de gato suuper fofo!. Desenvolvida apenas com HTML.',
       technologies: ['HTML'],
-      icon: '💞', 
+      icon: <img src="https://em-content.zobj.net/source/apple/155/smiling-face-with-smiling-eyes-and-three-hearts_1f970.png" alt="" />, 
       liveLink: 'https://github.com/dudareal/dia-dos-namorados.git',
       githubLink: 'https://github.com/dudareal/dia-dos-namorados.git'
     },
@@ -16,7 +16,7 @@ const Projects = () => {
       title: 'TechNoBug',
       description: 'Site destinado a pessoas interessadas em aprender e aprimorar conhecimentos sobre programação. Interface completa e moderna.',
       technologies: ['React', 'JavaScript', 'HTML', 'CSS', 'Firebase'],
-      icon: '🎓',
+      icon: <img src="https://em-content.zobj.net/source/apple/237/graduation-cap_1f393.png" alt="" />,
       liveLink: 'https://github.com/Samuel029/Projeto_Multidisciplinar.git',
       githubLink: 'https://github.com/Samuel029/Projeto_Multidisciplinar.git'
     },
@@ -25,7 +25,7 @@ const Projects = () => {
       title: 'Coração',
       description: 'Simples código para brincar com as diversas funcionalidades do python que é tanto julgado..',
       technologies: ['Python'],
-      icon: '❤️',
+      icon: <img src="https://em-content.zobj.net/source/apple/279/mending-heart_2764-fe0f-200d-1fa79.png" alt="" />,
       liveLink: 'https://github.com/dudareal/cora-o.git',
       githubLink: 'https://github.com/dudareal/cora-o.git'
     }
