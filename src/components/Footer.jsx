@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; 2024 Eduarda Real. Feito com ❤️ e muito ☕!</p>
+          <p>&copy; 2025. Eduarda Real. Feito com ❤️ e muito ☕!</p>
         </div>
       </div>
     </footer>

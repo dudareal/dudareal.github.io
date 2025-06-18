@@ -137,13 +137,13 @@ const SkillsCertificates = () => {
           className={`tab-button ${activeTab === 'skills' ? 'active' : ''}`}
           onClick={() => setActiveTab('skills')}
         >
-          💪 Habilidades
+          Habilidades
         </button>
         <button 
           className={`tab-button ${activeTab === 'certificates' ? 'active' : ''}`}
           onClick={() => setActiveTab('certificates')}
         >
-          🏆 Certificados
+           Certificados
         </button>
       </div>
 
