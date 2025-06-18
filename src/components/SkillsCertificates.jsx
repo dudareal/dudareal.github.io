@@ -29,7 +29,7 @@ const SkillsCertificates = () => {
       description: 'Certificação por obter melhor comportamento e melhores notas durante o 1º bimestre.',
       icon: '🏫',
       verified: true,
-      link: '#'
+      link: 'src/assets/alunadestaque.jpeg'
     },
     {
       id: 2,
@@ -39,7 +39,7 @@ const SkillsCertificates = () => {
       description: 'Com uma carga de 128h, meu grupo teve como conquista a medalha de bronze das Olímpiadas Brasileiras da Geografia.',
       icon: '🥉',
       verified: true,
-      link: '#'
+      link: 'src/assets/OBGEO.jpeg'
     },
     {
       id: 3,
@@ -49,14 +49,14 @@ const SkillsCertificates = () => {
       description: 'Reconhecimento por obter a maior nota da sala na matéria de exatas.',
       icon: '🎖️',
       verified: true,
-      link: '#'
+      link: 'src/assets/MATEMATICA.jpeg'
     },
     {
       id: 4,
       title: 'ONHB',
       issuer: 'Olímpiada Nacional em História do Brasil',
       date: '2025',
-      description: 'Carga de 24h na ONHB..',
+      description: 'Carga de 24h na ONHB.',
       icon: '🗺️',
       verified: true,
       link: '#'
@@ -79,7 +79,7 @@ const SkillsCertificates = () => {
       description: 'Formada em auxiliar técnica no 1º período do curso de DS, com uma carga de 570h.',
       icon: '💻',
       verified: true,
-      link: '#'
+      link: 'src/assets/TECNICO.jpeg'
     }
   ];
 
