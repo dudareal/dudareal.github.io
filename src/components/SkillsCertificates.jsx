@@ -25,7 +25,7 @@ const SkillsCertificates = () => {
       id: 1,
       title: 'Aluna Destaque',
       issuer: 'E.E Manoel Ignacio',
-      date: '2024',
+      date: '2025',
       description: 'Certificação por obter melhor comportamento e melhores notas durante o 1º bimestre.',
       icon: '🏫',
       verified: true,
@@ -59,7 +59,7 @@ const SkillsCertificates = () => {
       description: 'Carga de 24h na ONHB.',
       icon: '🗺️',
       verified: true,
-      link: '#'
+      link: 'src/assets/ONHB.jpeg'
     },
     {
       id: 5,
@@ -69,7 +69,7 @@ const SkillsCertificates = () => {
       description: 'Treinamento de Phishing.',
       icon: '🔒',
       verified: true,
-      link: '#'
+      link: 'src/assets/MARELLI.jpeg'
     },
     {
       id: 6,

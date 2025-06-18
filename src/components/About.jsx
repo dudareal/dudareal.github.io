@@ -13,20 +13,21 @@ const About = () => {
       <h2 className="section-title">Me conhecendo...</h2>
       <div className="about-content">
         <article className="about-text">
-          <p>
-            Oie! Sou uma futura desenvolvedora front-end e a melhor aluna do Gabriel hahah! Pretendo seguir nessa carreira
-            e desvendar mais do mundo tecnológico.
+          <p> 
+            <strong>Objetivos</strong>
           </p>
           <p>
-            Minha jornada na programação começou em 2024. Iniciei meu curso técnico na instituição Manoel Ignácio, obtive
-            muitas notas boas e hoje estou em busca da minha formação como programadora!
-          </p>
-          <p>
-            Estou sempre em busca de novos desafios e oportunidades para 
+            Busco uma nova oportunidade no mercado de trabalho para 
             aplicar meu conhecimento e contribuir com projetos inovadores. 
-            Gosto de trabalhar em equipe e compartilhar conhecimento com 
-            outros desenvolvedores.
           </p>
+
+          <p>
+            <strong>Informações Adicionais</strong>
+          </p>
+          <p>Inglês - Intermediário Nível 7</p>
+          <p>Espanhol - Básico</p>
+          <p><strong>Experiência Profissional</strong></p>
+          <p>Jovem Aprendiz - Marelli (2024-2025)</p>
         </article>
         
   
