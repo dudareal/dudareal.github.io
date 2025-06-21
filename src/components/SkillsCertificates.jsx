@@ -29,27 +29,27 @@ const SkillsCertificates = () => {
       description: 'Certificação por obter melhor comportamento e melhores notas durante o 1º bimestre.',
       icon: '🏫',
       verified: true,
-      link: 'src/assets/alunadestaque.jpeg'
+      link: 'https://ibb.co/0jTyKvCV'
     },
     {
       id: 2,
-      title: 'Medalha de Bronze',
-      issuer: 'OBGEO',
+      title: 'OBGEO',
+      issuer: 'Medalha de Bronze',
       date: '2024',
       description: 'Com uma carga de 128h, meu grupo teve como conquista a medalha de bronze das Olímpiadas Brasileiras da Geografia.',
       icon: '🥉',
       verified: true,
-      link: 'src/assets/OBGEO.jpeg'
+      link: 'https://ibb.co/4wQDsQYWs'
     },
     {
       id: 3,
       title: 'Certificado de Reconhecimento',
       issuer: 'E.E Manoel Ignacio',
-      date: '2023',
+       date: '2023',
       description: 'Reconhecimento por obter a maior nota da sala na matéria de exatas.',
       icon: '🎖️',
       verified: true,
-      link: 'src/assets/MATEMATICA.jpeg'
+      link: 'https://ibb.co/k7snDCt'
     },
     {
       id: 4,
@@ -59,7 +59,7 @@ const SkillsCertificates = () => {
       description: 'Carga de 24h na ONHB.',
       icon: '🗺️',
       verified: true,
-      link: 'src/assets/ONHB.jpeg'
+      link: 'https://ibb.co/jvtR42Kh'
     },
     {
       id: 5,
@@ -69,7 +69,7 @@ const SkillsCertificates = () => {
       description: 'Treinamento de Phishing.',
       icon: '🔒',
       verified: true,
-      link: 'src/assets/MARELLI.jpeg'
+      link: 'https://postimg.cc/https://ibb.co/w9h8tWM'
     },
     {
       id: 6,
@@ -79,7 +79,7 @@ const SkillsCertificates = () => {
       description: 'Formada em auxiliar técnica no 1º período do curso de DS, com uma carga de 570h.',
       icon: '💻',
       verified: true,
-      link: 'src/assets/TECNICO.jpeg'
+      link: 'https://ibb.co/Q7MqpcNW'
     }
   ];
 
