@@ -5,11 +5,11 @@ const Projects = () => {
     {
       id: 1,
       title: 'Valentines Day!',
-      description: 'Plataforma simples com apenas o front-end e um gif de gato suuper fofo!. Desenvolvida apenas com HTML.',
-      technologies: ['HTML'],
+      description: 'Várias imagens do casal passa pelo site, enquanto toca uma música de fundo e a letra aparece no decorrer da tela.',
+      technologies: ['HTML e CSS'],
       icon: <img src="https://em-content.zobj.net/source/apple/155/smiling-face-with-smiling-eyes-and-three-hearts_1f970.png" alt="" />, 
-      liveLink: 'https://github.com/dudareal/dia-dos-namorados.git',
-      githubLink: 'https://github.com/dudareal/dia-dos-namorados.git'
+      liveLink: 'https://hearttoheart-sigma.vercel.app/',
+      githubLink: 'https://github.com/dudareal/looovee.git'
     },
     {
       id: 2,
@@ -22,12 +22,12 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: 'Coração',
-      description: 'Simples código para brincar com as diversas funcionalidades do python que é tanto julgado..',
-      technologies: ['Python'],
-      icon: <img src="https://em-content.zobj.net/source/apple/279/mending-heart_2764-fe0f-200d-1fa79.png" alt="" />,
-      liveLink: 'https://github.com/dudareal/cora-o.git',
-      githubLink: 'https://github.com/dudareal/cora-o.git'
+      title: 'E-commerce',
+      description: 'Site simples destinado a uma loja de jóia de luxo.',
+      technologies: ['HTML'],
+      icon: <img src="https://png.pngtree.com/element_our/png/20181031/shopping-cart-png_224349.jpg" alt="" />,
+      liveLink: 'https://blairwaldorf-ashen.vercel.app/',
+      githubLink: 'https://github.com/dudareal/blairwaldorfjoia.git'
     }
   ];
 
